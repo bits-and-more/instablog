@@ -1,0 +1,16 @@
+{
+  "title": "Insta Blog Template",
+  "menus": [ "About", "Contact" ],
+  "menuStyle": "default",
+  "themes": [ "dark", "default" ],
+  "theme": "dark",
+  "disqus": {
+    "siteName": "instablog-2",
+    "enabled": true
+  },
+  "feedBurner": {
+    "link": "http://feeds.feedburner.com/qInstaBlog?format=xml",
+    "mail": "https://feedburner.google.com/fb/a/mailverify?uri=qInstaBlog&amp;loc=en_US",
+    "enabled": true
+  }
+}
